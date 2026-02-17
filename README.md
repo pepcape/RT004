@@ -3,7 +3,7 @@ Support for the ***NPGR004 (Photorealistic graphics)*** lecture. Summer semester
 
 ## Project plan
 Every `sNN-*` directory refers to one item of the lab plan
-(see [row 2 of this table](https://docs.google.com/spreadsheets/d/1z7dicAiSr7U_-kgMnJnSRNH-OPHIabCPl8GcJCNzz-o/edit?usp=sharing))
+(see [row 2 of this table](https://docs.google.com/spreadsheets/d/1U-YGmewg9mzhzJQu9V7DrwVBOxUcRtzuaMhhXp6nKEk/edit?usp=sharing))
 
 More details will be provided in this repository. Checkpoint
 information will be included in the associated step directories
