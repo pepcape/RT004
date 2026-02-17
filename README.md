@@ -16,7 +16,7 @@ extensions.
 ## src
 The src directory contains support files from the lecturer. The default
 version uses `.NET 8.0`
-(it goes well with [OpenTK.Mathematics 5.0-pre13](https://github.com/opentk/opentk/tree/opentk5.0)).
+(it goes well with [OpenTK.Mathematics 5.0-pre15](https://github.com/opentk/opentk/tree/opentk5.0)).
 
 Select `.NET 8.0 (Long Term Support)` if creating a new project,
 it works well on Windows, Linux and macOS.
@@ -27,7 +27,7 @@ We use `Visual Studio 2022`, the [Community](https://visualstudio.microsoft.com/
 `.sln`, `.csproj` files and even the saved options from Visual Studio.
 
 ## Point table
-See [this shared table](https://docs.google.com/spreadsheets/d/1z7dicAiSr7U_-kgMnJnSRNH-OPHIabCPl8GcJCNzz-o/edit?usp=sharing)
+See [this shared table](https://docs.google.com/spreadsheets/d/1U-YGmewg9mzhzJQu9V7DrwVBOxUcRtzuaMhhXp6nKEk/edit?usp=sharing)
 for current points. Check the dates of individual Checkpoints...
 
 Contact me <pepca@cgg.mff.cuni.cz> for any suggestions, comments or
@@ -114,7 +114,7 @@ Please invite me - https://gitlab.mff.cuni.cz/pelikan.
   Of course you could report positive experience in Linux/macOS as well.
 * It seems like the `System.Numerics` library doesn't support fully the `double`
   types yet, so I'm going to use the lightweighted **`OpenTK.Mathematics`**
-  library instead, distributed in [NuGet form](https://www.nuget.org/packages/OpenTK.Mathematics/5.0.0-pre.13)
+  library instead, distributed in [NuGet form](https://www.nuget.org/packages/OpenTK.Mathematics/5.0.0-pre.15)
 * You can work in your repositories without major restrictions.
   The recommended location for your solution is the [solution](solution)
   directory.

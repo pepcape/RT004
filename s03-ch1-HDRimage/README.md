@@ -18,7 +18,7 @@ Don't forget to mention me in your **commit message** (`@pepcape` on GitHub,
 
 ## Useful links
 * HDR image viewer [Picturenaut](https://picturenaut.en.softonic.com/)
-* LDR image viewer [IrfanView](https://www.irfanview.com/main_download_engl.htm)
+* SDR image viewer [IrfanView](https://www.irfanview.com/main_download_engl.htm)
 * [GIMP](https://www.gimp.org/) can view and edit almost all formats
 * [PFM format description](https://www.pauldebevec.com/Research/HDR/PFM/) by Paul Debevec
 
